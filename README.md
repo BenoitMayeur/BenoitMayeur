@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi I'm a Junior Front-End Developer 👋
+
+- ⚡ During the day I follow courses focusing on JS and Angular 2+...
+- ⚡ ... And thanks to my evening courses I increase my skills in web development at the [Institut Saint-Laurent in Liège (in French)](https://www.isl.be/portfolio_item/formation-liege-web-developer-webmaster/ )
 
 <!--
 **BenoitMayeur/BenoitMayeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
