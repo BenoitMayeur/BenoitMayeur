@@ -1,8 +1,13 @@
-### Hi I'm a Junior Front-End Developer 👋
+### Hi! I'm Ben and I'm a Junior Front-End Developer 👋
 
 ⚡ During the day I follow courses focusing on JS and Angular 2+...
 
 ⚡ ... And thanks to my evening courses I increase my skills in web development at the [Institut Saint-Laurent in Liège (in French)](https://www.isl.be/portfolio_item/formation-liege-web-developer-webmaster/ )
+
+#####  Not code related
+I currently live in Belgium after studying and working a year and a half in Estonia and several months in Russia
+I enjoy telling real stories that happened to people I know
+
 
 <!--
 **BenoitMayeur/BenoitMayeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
