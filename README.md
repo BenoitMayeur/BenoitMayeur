@@ -1,4 +1,6 @@
-### Hi! I'm Ben and I'm a Junior Front-End Developer 👋
+### Hi!
+### I'm Ben 
+### I'm a Junior Front-End Developer 👋
 
 :sunny: During the Day: Study JS and Angular 2+ at [Proforma Center (ex STE Formations)](http://buzz4job.be/proforma/agile-developer-full-stack-javascript/)...
 
