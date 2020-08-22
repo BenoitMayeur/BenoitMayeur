@@ -15,6 +15,7 @@ I enjoy telling real stories: We are all stories at the end
 
 ### Books in Progress
 Hooked - How to Build Habit-Forming Products by [Nir Eyal](https://medium.com/startup-grind/nir-eyal-why-you-are-addicted-to-facebook-slack-pinterest-468a86eb562)
+
 Become a Ninja with Angular by Ninja Squad
 
 <!--
