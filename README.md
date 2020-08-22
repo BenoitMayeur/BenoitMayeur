@@ -2,9 +2,9 @@
 ### I'm Ben 
 ### I'm a Junior Front-End Developer 👋
 
-:sunny: During the Day: Study JS and Angular 2+ at <a href="http://buzz4job.be/proforma/agile-developer-full-stack-javascript/" target="_blank">Proforma Center (ex STE Formations)</a>...
+:sunny: During the Day: Study JS and Angular 9 at the Proforma Center (previous "STE Formations")...
 
-:waxing_crescent_moon: During the Evening: Study to obtain the certificate in Web Development at the [Institut Saint-Laurent in Liège (in French), section Web Development](https://www.isl.be/portfolio_item/formation-liege-web-developer-webmaster/ ). :heavy_check_mark: First year passed, one and a half left !
+:waxing_crescent_moon: During the Evening: Study to obtain the certificate in Web Development at the Institut Saint-Laurent in Liège. :heavy_check_mark: First year passed, one and a half left !
 
 
 
@@ -14,7 +14,7 @@ I currently live in Belgium after studying and working in Estonia and in Russia
 I enjoy telling real stories: We are all stories at the end
 
 ### Books in Progress
-Hooked - How to Build Habit-Forming Products by [Nir Eyal](https://medium.com/startup-grind/nir-eyal-why-you-are-addicted-to-facebook-slack-pinterest-468a86eb562)
+Hooked - How to Build Habit-Forming Products by Nir Eyal
 
 Become a Ninja with Angular by Ninja Squad
 
