@@ -18,7 +18,6 @@ Hooked - How to Build Habit-Forming Products by Nir Eyal
 
 Become a Ninja with Angular by Ninja Squad
 
-<a href="http://example.com/" target="_blank">Hello, world!</a>
 
 <!--
 **BenoitMayeur/BenoitMayeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
