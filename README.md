@@ -2,7 +2,7 @@
 
 :sunny: During the Day: Study JS and Angular 2+ at [Proforma Center (ex STE Formations)](http://buzz4job.be/proforma/agile-developer-full-stack-javascript/)...
 
-:waxing_crescent_moon: During the Evening: Study to obtain the certificate in Web Development [Institut Saint-Laurent in Liège (in French), section Web Development](https://www.isl.be/portfolio_item/formation-liege-web-developer-webmaster/ ). :heavy_check_mark: First year passed, one and a half left !
+:waxing_crescent_moon: During the Evening: Study to obtain the certificate in Web Development at the [Institut Saint-Laurent in Liège (in French), section Web Development](https://www.isl.be/portfolio_item/formation-liege-web-developer-webmaster/ ). :heavy_check_mark: First year passed, one and a half left !
 
 
 
