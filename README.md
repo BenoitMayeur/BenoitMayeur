@@ -9,10 +9,13 @@
 
 
 #####  Life is Truly What You Make It
-I currently live in Belgium after studying and working a year and a half in Estonia and several months in Russia
+I currently live in Belgium after studying and working in Estonia and in Russia
 
 I enjoy telling real stories: We are all stories at the end
 
+### Books in Progress
+Hooked - How to Build Habit-Forming Products by [Nir Eyal](https://medium.com/startup-grind/nir-eyal-why-you-are-addicted-to-facebook-slack-pinterest-468a86eb562)
+Become a Ninja with Angular by Ninja Squad
 
 <!--
 **BenoitMayeur/BenoitMayeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
