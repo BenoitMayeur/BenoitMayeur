@@ -8,7 +8,7 @@
 
 
 
-#####  Life is more than coding
+#####  Life is Truly What You Make It
 I currently live in Belgium after studying and working a year and a half in Estonia and several months in Russia
 
 I enjoy telling real stories: We are all stories at the end
