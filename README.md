@@ -1,10 +1,12 @@
 ### Hi! I'm Ben and I'm a Junior Front-End Developer 👋
 
-⚡ During the day I follow courses focusing on JS and Angular 2+...
+⚡ During the Day: Study JS and Angular 2+ at [Proforma Center (ex STE Formations)](http://buzz4job.be/proforma/agile-developer-full-stack-javascript/)...
 
-⚡ ... And thanks to my evening courses I increase my skills in web development at the [Institut Saint-Laurent in Liège (in French)](https://www.isl.be/portfolio_item/formation-liege-web-developer-webmaster/ )
+⚡ During the Evening: Study to obtain the certificate in Web Development [Institut Saint-Laurent in Liège (in French), section Web Development](https://www.isl.be/portfolio_item/formation-liege-web-developer-webmaster/ ). :heavy_check_mark: First year passed, one and a half left !
 
-#####  Not code related
+
+
+#####  Life is more than coding
 I currently live in Belgium after studying and working a year and a half in Estonia and several months in Russia
 
 I enjoy telling real stories: We are all stories at the end
