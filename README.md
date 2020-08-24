@@ -1,5 +1,5 @@
 ### Hi!
-### I'm Ben 
+### I'm Ben :chestnut:
 ### I'm a Junior Front-End Developer from Liege👋
 
 :sunny: During the Day: Study JS and Angular 9 at the Proforma Center (previous "STE Formations") in Liege...
