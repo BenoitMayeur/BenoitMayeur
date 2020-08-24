@@ -9,7 +9,7 @@
 
 
 ###  Life is Truly What You Make It
-I currently live in Belgium after studying and working in Estonia and Russia
+I'm Belgian, I live in Liege after studying and working in Estonia and Russia for two years
 
 I enjoy telling real stories: We are all stories at the end
 
