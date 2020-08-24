@@ -1,10 +1,10 @@
 ### Hi!
 ### I'm Ben 
-### I'm a Junior Front-End Developer from Liège👋
+### I'm a Junior Front-End Developer from Liege👋
 
-:sunny: During the Day: Study JS and Angular 9 at the Proforma Center (previous "STE Formations") in Liège...
+:sunny: During the Day: Study JS and Angular 9 at the Proforma Center (previous "STE Formations") in Liege...
 
-:waxing_crescent_moon: During the Evening: Study to obtain the certificate in Web Development at the Institut Saint-Laurent in Liège. :heavy_check_mark: First year passed, one and a half left !
+:waxing_crescent_moon: During the Evening: Study to obtain the certificate in Web Development at the Institut Saint-Laurent in Liege. :heavy_check_mark: First year passed, one and a half left !
 
 
 
