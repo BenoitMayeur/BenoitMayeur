@@ -4,7 +4,7 @@
 
 :sunny: During the Day: Look for a job + study (in April: learn more about Python and data management)...
 
-:waxing_crescent_moon: During the Evening: Study to obtain the certificate in Web Development at the Institut Saint-Laurent in Liege.\ 
+:waxing_crescent_moon: During the Evening: Study to obtain the certificate in Web Development at the Institut Saint-Laurent in Liege.&nbsp; 
 :heavy_check_mark: First year passed ! Second year: JavaScript, PHP, MySQL/DB and Network for beginners 
 
 
