@@ -2,9 +2,10 @@
 ### I'm Ben :chestnut:
 ### I'm a Junior Front-End Developer from Liege👋
 
-:sunny: During the Day: Study JS and Angular 9 at the Proforma Center (previous "STE Formations") in Liege...
+:sunny: During the Day: Look for a job + study (in April: learn more about Python and data management)...
 
-:waxing_crescent_moon: During the Evening: Study to obtain the certificate in Web Development at the Institut Saint-Laurent in Liege. :heavy_check_mark: First year passed, ready for the next one !
+:waxing_crescent_moon: During the Evening: Study to obtain the certificate in Web Development at the Institut Saint-Laurent in Liege. :heavy_check_mark: 
+First year passed ! Second year: JavaScript, PHP, MySQL/DB and Network for beginners 
 
 
 
@@ -15,8 +16,6 @@ I enjoy telling real stories: We are all stories at the end
 
 ### Books in Progress
 Hooked - How to Build Habit-Forming Products by Nir Eyal
-
-Become a Ninja with Angular by Ninja Squad
 
 
 <!--
