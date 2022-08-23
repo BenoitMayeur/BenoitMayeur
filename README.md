@@ -12,8 +12,8 @@ I'm Belgian, I live in Liege after studying and working in Estonia and Russia fo
 
 I enjoy telling real stories: We are all stories at the end
 
-### Books in Progress
-Hooked - How to Build Habit-Forming Products by Nir Eyal
+### Book in Progress
+Head First Java by Kathy Sierra & Bert Bates
 
 
 <!--
